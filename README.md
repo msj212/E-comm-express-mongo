@@ -37,4 +37,3 @@ cd E-comm-express-mongo
 npm install
 
 
-npm start
